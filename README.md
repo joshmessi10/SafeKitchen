@@ -45,6 +45,7 @@ The system consists of the following components:
 - **Cloud integration** using MQTT and **Ubidots**.
 - **Local storage** using SQLite and CSV export.
 - **SMS alerts** via Vonage API.
+---
 
 ### 📦 Block Diagram
 
@@ -67,6 +68,7 @@ The system consists of the following components:
 
 ![SK1](https://github.com/user-attachments/assets/15efedb4-6e4b-4c93-b92e-ee0a96d04ccf)
 
+---
 
 ### 📷 Example Screenshots:
 
@@ -86,6 +88,8 @@ The system consists of the following components:
 
 ![SK5](https://github.com/user-attachments/assets/46b0ff95-5749-4fda-831e-5ad2e34d9773)
 
+---
+
 ### 🧠 Conclusions
 
 The proposed system was successfully designed and built with a web socket interface and Wi-Fi communication.
@@ -101,7 +105,8 @@ Future improvements may include:
 - Evaluation of alternative microcontrollers and protocols.
 
 - Testing additional sensors for accuracy and cost-efficiency.
-
+  
+---
 ### 👥 Team Members:
 
 - [Josh Lopez](https://github.com/joshmessi10)
