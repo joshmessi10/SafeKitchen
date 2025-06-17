@@ -1,15 +1,9 @@
 # 🛠️ Safe Kitchen: Smart Kitchen Alarm System (IoT-Based)
 
-**Course:** Introduction to IoT  
-**Authors:** Rubén Camargo, Josh López, Sergio Molina  
-**Instructor:** Marco Terán  
-**Institution:** Bogotá D.C., 2022
-
----
 
 ## 📘 Overview
 
-The **Smart Kitchen Alarm System** is an IoT-based project designed to prevent gas leaks and fires in household kitchens. It integrates gas, flame, and temperature sensors with real-time monitoring via Node-RED and Ubidots, alerts through SMS using Vonage, and local data storage on a Raspberry Pi.
+**Safe Kitchen** is an IoT-based project designed to prevent gas leaks and fires in household kitchens. It integrates gas, flame, and temperature sensors with real-time monitoring via Node-RED and Ubidots, alerts through SMS using Vonage, and local data storage on a Raspberry Pi.
 
 ---
 
