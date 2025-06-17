@@ -72,17 +72,25 @@ The system consists of the following components:
 
 ### 📷 Example Screenshots:
 
+---
+
 #### Node-RED UI with real-time data
 
 ![SK2](https://github.com/user-attachments/assets/1940c17c-8d26-434f-980e-75451d6371e3)
+
+---
 
 #### Ubidots cloud dashboard
 
 ![SK3](https://github.com/user-attachments/assets/30daa72c-97f6-439b-aa7a-19948a8b457b)
 
+---
+
 #### SQLite database
 
 ![SK4](https://github.com/user-attachments/assets/5f142926-f4b1-4358-80db-091ec4d56b94)
+
+---
 
 #### SMS alert confirming fire/gas detection
 
