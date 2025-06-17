@@ -98,6 +98,10 @@ The system consists of the following components:
 
 ---
 
+https://github.com/user-attachments/assets/fac50ce4-051e-4d38-a6f2-171c71e23b54
+
+---
+
 ### 🧠 Conclusions
 
 The proposed system was successfully designed and built with a web socket interface and Wi-Fi communication.
